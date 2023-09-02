@@ -1,4 +1,1 @@
-/* TEAM */
-Developer: Corentin Thomasset
-Site: https://github.com/CorentinTh
-Twitter: @cthmsst
+
