@@ -55,10 +55,7 @@ const tools = computed<ToolCategory[]>(() => [
 
         <div class="footer">
           <div>
-            IT-Tools
-          </div>
-          <div>
-            © {{ new Date().getFullYear() }}
+            IT-Tools © {{ new Date().getFullYear() }}
           </div>
         </div>
       </div>
