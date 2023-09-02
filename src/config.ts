@@ -53,12 +53,12 @@ export const config = figue({
       default: false,
     },
   },
-  showBanner: {
-    doc: 'Show the banner',
-    format: 'boolean',
-    default: false,
-    env: 'VITE_SHOW_BANNER',
-  },
+  // showBanner: {
+  //   doc: 'Show the banner',
+  //   format: 'boolean',
+  //   default: false,
+  //   env: 'VITE_SHOW_BANNER',
+  // },
 })
   .loadEnv({
     ...import.meta.env,
